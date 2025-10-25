@@ -1,0 +1,8 @@
+.env
+vendor
+/.fleet
+/.idea
+/.nova
+/.phpunit.cache
+/.vscode
+/.zed
